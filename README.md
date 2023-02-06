@@ -1,2 +1,1 @@
-# microservices-chat-services-nestjs
-chat services
+# 12 factor principles with nestjs framework
